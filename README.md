@@ -17,7 +17,7 @@ by only 2 CNNs with increase of recognition quality without losing performance.
 ## Steps
 
 All steps are implemented as spyder environment and could be read without execution:
-*   [Step 1 - Initial Data Preparation](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%201%20-%20Initial%20Data%20Preparation.ipynb)
+*   step 1 - Data Preparation.py
 *   [Step 2 - Brands Recognition with ResNet CNN](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%202%20-%20Brands%20Recognition%20with%20CNN.ipynb)
 
 ## Dependencies
