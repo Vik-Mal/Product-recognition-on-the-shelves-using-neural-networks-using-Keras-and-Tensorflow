@@ -1,7 +1,7 @@
 # Grocery-shelves
 ### Recognition of Product Positions on Shelf Images with Deep Learning in Keras / Tensorflow
 
-![](docs/images/planogram.jpg)
+![](vikash/planogram.jpg)
 
 ## Introduction
 
