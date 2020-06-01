@@ -17,7 +17,7 @@ by only 2 CNNs with increase of recognition quality without losing performance.
 ## Steps
 
 All steps are implemented as spyder environment and could be read without execution:
-*   step 1 - Data Preparation.py
+*   [step 1 - Data Preparation](https://github.com/Vik-Mal/Product-recognition-on-the-shelves-using-neural-networks-using-Keras-and-Tensorflow/blob/master/step%201%20-%20Data%20Preparation.py)
 *   [Step 2 - Brands Recognition with ResNet CNN](https://github.com/empathy87/nn-grocery-shelves/blob/master/Step%202%20-%20Brands%20Recognition%20with%20CNN.ipynb)
 
 ## Dependencies
